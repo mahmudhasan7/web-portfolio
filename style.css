@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner {
+    height: 550px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.width-50 {
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    padding-right: 2%;
+}
+.width-50 img {
+    width: 100%;
+}
+.top-banner h1 {
+    font-size: 50px;
+}
+.top-banner h1 span {
+    color: orange;
+}
+.top-banner h3 {
+    font-size: 19px;
+    font-weight: bold;
+}
+.top-btn {
+    text-decoration: none;
+    background: linear-gradient( lightsalmon, tomato);
+    padding: 12px 35px;
+    color: #fff;
+    font-weight: 800;
+}
+.top-banner img {
+    width: 100%;}
+
+    .dream-area {
+        height: 650px;
+    }
+.btn-dream {
+        text-decoration: none;
+        background: linear-gradient( lightsalmon, tomato);
+        padding: 12px 35px;
+        color: #fff;
+        font-weight: 800;
+    }
+.dream-area h2 {
+        font-size: 50px;
+    }
+    .experiences-area {
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+    .experiences-area {
+        height: 650px;
+        margin-top: 100px;
+    }
+    .experiences-area h3 {
+        color: orange;
+    }
+    .experiences-area h2 {
+        font-size: 50px;
+    }
+    .experiences-area h3 {
+        font-size: 40px;
+    }
+    #full-stack {
+        border-left: 9px solid tomato;
+        padding-left: 20px;
+        margin-left: 86px;
+        box-shadow: 3px 7px 31px #000;
+        height: 50%;
+    }
+    #baby-web {
+        border-left: 9px solid blueviolet;
+        padding-left: 20px;
+        margin-left: 86px;
+        box-shadow: 3px 7px 31px #000;
+        height: 50%;
+    }
+    footer {
+        text-align: center;
+    }
+    
